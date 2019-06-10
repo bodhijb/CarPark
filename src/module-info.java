@@ -5,7 +5,7 @@
  * @author user
  *
  */
-module leetCodeOOPCarPark {
+module User {
 	
 	
 }
